@@ -6,8 +6,8 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ / điểm khác biệt |
 | --- | --- | --- |
-| `car` | Xe con: sedan, SUV, taxi, xe bán tay | Xe buýt, mô tô, van không thuộc lớp này |
-| `truck` | Xe tải chở hàng, xe kéo/tới | Xe con, xe buýt không thuộc lớp này |
+| `car` | Xe con: sedan, SUV, taxi, xe bán tải | Xe buýt, mô tô, van không thuộc lớp này |
+| `truck` | Xe tải chở hàng, xe đầu kéo | Xe con, xe buýt không thuộc lớp này |
 | `bus` | Xe buýt, minibus chở khách | Xe van, xe con không thuộc lớp này |
 | `van` | Xe van, minivan chở hàng hoặc người | Xe buýt lớn, xe con thường không thuộc |
 
@@ -18,7 +18,7 @@
 - **Không tự đoán** khi ảnh quá mờ, tâm cảnh không rõ, hoặc vật thể vượt biên: ghi câu lý do và hỏi giáo viên.
 - **Từng xe một box riêng**: nếu 2 xe sát nhau, chạm vào nhau thì cứ vạch 2 box riêng một trên phần nhìn thấy, không gộp chung.
 
-## Ca mỏ — ít nhất 3 trường hợp đặc biệt
+## Ca mơ hồ — ít nhất 3 trường hợp đặc biệt
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
